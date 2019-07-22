@@ -7,6 +7,7 @@ public class MenuDisplayModule {                // Module to display various sta
 
     public static int mainMenuBeerGarden() {   // Display the main Beer Garden menu, return choice
                                                 // TODO: add integer return parameter
+        System.out.println();
         System.out.println("     @@ @* @@ @@ @@ * @@ @@*@@ @@ * @@ @@*@@ @@ * @ @@ @@ @@ @*  ");
         System.out.println("  @*@ @@ @@ *@                                     *@ @@ @@ @**  ");
         System.out.println("** @ @ *@ @*@      WELCOME TO THE BEER GARDEN!      @*@ ** @ @ *@");
@@ -31,6 +32,9 @@ public class MenuDisplayModule {                // Module to display various sta
 
 
     public static void breweryChooserMenu() {     // Display the brewery choices menu
+
+        //TODO: Loop through the CraftBrewRateReview.data.BreweryBackgroundData.csv file printing out the brewery choices
+
 
 
     } // breweryChooserMenu
