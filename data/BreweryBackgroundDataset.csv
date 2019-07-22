@@ -1,0 +1,70 @@
+﻿BREWERY[0](STRING),Type,WEBSITE[1] (STRING),STREET ADDRESS[2](STRING),CITY[3] (STRING),"STATE
+[4]",ZIPCODE[5] (STRING),"PHONE[6]
+(String)",DAYS CLOSED[7](String)
+3rd Turn Brewing,Taproom,3rdturnbrewing.com,10408 Watterson Trail,Louisville,KY,40299,502-485-3373,MO
+3rd Turn Oldham Gardens,Taproom,3rdturnbrewing.com, 6300 Old Lagrange Rd,Crestwood,KY,40014,502-482-3373,SU thru WE
+Abettor Brewing Company,Taproom,abettorbeer.com,301 W. Lexington Ave,Winchester,KY,40391,859-749-9474,???
+Against the Grain Brewery,Microbrewery,atgbrewery.com,401 E. Main Street,Louisville,KY,40202,502-515-0174,
+Akasha Brewing Company,Taproom,akashabrewing.com,"909 E. Market Street, Ste 700",Louisville,KY,40206,502-742-7770,MO
+Alexandria Brewing Company,Brewpub,alexandriabrewingcompany.com,"7926 Alexandria Pike, Ste 1",Alexandria,KY,41001,859-694-6999,MO
+Apocalypse Brew Works,Taproom,apocalypsebrewworks.com,1612 Mellwood Avenue,Louisville,KY,40206,502-589-4843,
+Alexander Bullitt's Brewery & BBQ,Brewpub,facebook.com/BullittsBreweryBBQ,131 North 3rd Street,Bardstown,KY,40004,502-331-6177,SU
+Bircus Brewing Company,Taproom,bircus.com,322 Elm Street,Ludlow,KY,41016,859-360-7757,MO
+Blue Stallion Brewing Company,Microbrewery,bluestallionbrewing.com,610 West Third Street,Lexington,KY,40508,859-608-8490,
+Blue Holler Brewing,Microbrewery,facebook.com/Bluehollerbrew,1266 U.S. 31 W Bypass,Bowling Green,KY,42104,270-792-3003,
+"Bluegrass Brewing Company, Arena",Brewpub,bbcbrew.com,300 West Main Street,Louisville,KY,40202,502-562-0007,
+"Bluegrass Brewing Company, 4th Street",Brewpub,bbcbrew.com,654 South 4th Street,Louisville,KY,40202,502-551-5355,SU
+Braxton Brewing Company,Regional,braxtonbrewing.com,27 West 7th Street,Covington,KY,41011,859-261-5600,
+Braxton Brewing Labs,Microbrewery,braxtonbrewing.com,95 Riviera Drive,Bellevue,KY,41073,859-291-0036,
+Braxton Barrel House,Microbrewery,braxtonbrewing.com,"2501 Dixie Highway, US 42",Fort Mitchell,KY,41017,000-000-0000,
+Broken Throne Brewing,Microbrewery,brokenthronebrewing.com,121 Main Street,Pikeville,KY,41501,859-321-2754,SU thru TU
+Country Boy Brewing,Microbrewery,countryboybrewing.com,436 Chair Ave,Lexington,KY,40508,859-554-6200,
+Country Boy Brewing -- Georgetown,Microbrewery,countryboybrewing.com,108 Corporate Dr ,Georgetown,KY,40324,859-588-2118,
+Cumberland Brews,Microbrewery,cumberlandbrews502.com,1576 Bardstown Rd,Louisville,KY,40205,502-459-4706,
+Darkness Brewing,Taproom,darknessbrewing.beer,224 Fairfield Avenue,Belleville,KY,41073,859-815-8375,
+DO/LOVE/LIVE Brewing,Taproom,dolovelive.com,1016 East Washington Street,Louisville,KY,40206,859-321-2754,Not Open Yet
+Dreaming Creek Brewery,Taproom,dreamingcreekbrewery.beer,109 East Irvine Street,Richmond,KY,40475,859-575-7111,MO
+Dry Ground Brewing Company,Taproom,drygroungbrewing.com,3121 Broadway St,Paducah,KY,42001,270-210-9296,
+Dueling Barrels Brewing & Distillery,Microbrewery,duelingbarrels.com,745 Hambley Blvd,Pikeville,KY,41501,606-766-3835,SU
+Ethereal Brewing,Microbrewery,etherealbrew.com,1224 Manchester Street,Lexington,KY,40504,859-309-1254,
+Falls City Brewery,Microbrewery,fallscitybeer.com,901 East Liberty Street,Louisville,KY,40204,502-257-7284,
+False Idol Brewery,Brewpub,falseidolbrewers.com,1025 Barret Avenue,Louisville,KY,40204,502-742-1714,
+Flywheel Brewing,Taproom,flywheelbrewing.com,"218 S Mulberry Street, Ste 103",Elizabethtown,KY,42701,000-000-0000,
+Fusion Brewing,Taproom,fusion-brewing.com,1170 Manchester Street,Lexington,KY,40508,859-554-8037,
+Goodwood Brewing Company - Louisville Taproom,Microbrewery,goodwood.beer/venue/goodwood-taproom,636 E Main Street,Louisville,KY,40202,502-584-2739,
+Goodwood Brewing Company - Jeffersonville Taproom,Microbrewery,goodwood.beer/venue/jeffersonville-brewhouse-at-coxs-chicken,134 Spring Street,Jeffersonville,IN,47130,812.590.3281,???
+Goodwood Brewing Company - Frankfort Taproom,Microbrewery,goodwood.beer/venue/frankfort-taproom,109 West Main Street,Frankfort,KY,40601,502-871-5070,???
+Gordon Biersch Brewery Restaurant - Louisville,Brewpub,gordonbiersch.com/locations/louisville,400 S 4th Street,Louisville,KY,40202,502-589-8935,
+Gravely Brewing,Microbrewery,gravelybrewing.com,514 Baxter Avenue,Louisville,KY,40204,502-822-3202,
+Great Flood Brewing Company,Microbrewery,greatfloodbrewing.com,2120 Bardstown Road,Louisville,KY,40205,502-457-7711,
+Gypsy Run Brewery,Brewpub,gypsyrunbreweryky.com,131 N. 4th Street,Danville,KY,40422,606-687-0552,
+Henderson Brewing,Brewpub,hendersonbrewco.com,737 2nd Street,Henderson,KY,42420,270-200-4314,MO
+Hofbrauhause Newport,Brewpub,hofbrauhausnewport.com,305 Park Avenue,Newport,KY,41071,859-491-7200,
+Holsopple Brewing,Taproom,holsopplebrewing.com,"8023 Catherine Lane, Unit 105",Louisville,KY,40222,502-708-1902,
+Hopcat - Louisville,Brewpub,hopcat.com/louisville,1064 Bardstown Road,Louisville,KY,40204,502-890-8676,
+Hopkinsville Brewing Company,Taproom,hopkinsvillebrewingcompany.com,102 E. 5th Street,Hopkinsville,KY,42240,270-987-3115,SU thru TU
+Jarfly Brewing ,Taproom,jarflybrewing.com,103 W. Mount Vernon Street,Somerset,KY,42501,606-425-4962,MO and TU
+Lemons Mill Brewery,Taproom,lemonsmillbrewery.com,166 Marimon Avenue,Harrodsburg,KY,40330,859-265-0872,SU-MO and WE
+Lexington Brewing and Distilling Company,Regional,lexingtonbrewingco.com,401 Cross Street,Lexington,KY,40508,859-225-8095,SU
+Maiden City Brewing Company,Taproom,maidencitybrewing.com,123 E. Pike Street,Cynthiana,KY,41031,859-954-5151,MO thru WE
+Mash Cult Brewing,Taproom,facebook.com/mashcultbrewing,6823 Burlington Pike,Florence,KY,41042,859-371-4466,
+Maysville Brewing Company,Taproom,facebook.com/maysvillebrewing,8 West 2nd Street,Maysville,KY,41056,606-407-6008,SU and MO
+Mile Wide Beer Company,Taproom,milewidebeer.com,636 Barret Avenue,Louisville,KY,40204,502-409-8139,MO
+Mirror Twin Brewing,Brewpub,mirrortwinbrewing.com,725 National Avenue,Lexington,KY,40502,618-406-3598,
+Monnik Beer Company,Brewpub,monnikbeer.com,1036 E Burnett Avenue,Louisville,KY,40217,502-742-6564,
+My Old Kentucky Foam Brewing Company,Taproom,facebook.com/mokyfoam2017,149 E Main Street,Georgetown,KY,40324,502-603-0069,SU
+Old Louisville Brewery,Taproom,oldlouisvillebrewery.com,625 W Magnolia Avenue,Louisville,KY,40208,502-365-4886,TU
+"Old Louisville Brewery, The Barrel Room",Taproom,oldlouisvillebrewery.com/barrel-room,622 Main Street,Shelbyville,KY,40065,502-437-0420,SU thru WE
+Paducah Beer Werks,Brewpub,facebook.com/paducahbeerwerks,301 N 4th Street,Paducah,KY,42001,270-933-1265,
+Pivot Brewing,Taproom,pivotbrewingcompany.com,1400 Delaware Avenue,Lexington,KY,40505,859-285-6778,
+Rock House Brewing ,Taproom,http://rockhousebrewing.com,119 Luigart Court,Lexington,KY,40508,859-368-7064,
+Rooster Brewing,Microbrewery,roosterbrew.com,609 Main Street,Paris,KY,40361,859-707-3436,SU thru WE
+Sig Luscher Brewery,Microbrewery,sigluscherbrewery.com,221 Mero Street,Frankfort,KY,40601,502-209-9138,
+Tap on Main Brewing,Taproom,taponmainst.com,601A North Main Street,Somerset,KY,42501,606-451-1525,
+Versailles Brewing Company,Brewpub,facebook.com/vbcbrewing,"513 Marasilles Road, Suite 8",Versailles,KY,40383,859-256-0169,
+West Sixth Brewing,Microbrewery,westsixth.com,501 West Sixth Street,Lexington,KY,40508,859-951-6006,
+West Sixth Farm,Microbrewery,westsixth.com/westsixthfarm,4495 Shadrick Ferry Road,Frankfort,KY,40601,859-705-0915,MO thru TH
+West Sixth Greenroom,Microbrewery,westsixth.com/the-west-sixth-greenroom,109 West Main Street,Lexington,KY,40507,859-705-0916,SU thru WE
+White Squirrel Brewery,Brewpub,whitesquirrelbrewery.com,871 Broadway Avenue,Bowling Green,KY,42101,270-904-1573,MO
+Wooden Cask Brewing Company,Taproom,facebook.com/WoodenCask,629 York Street,Newport,KY,41071,859-261-2172,
+Yancey's Gastropub & Brewery,Brewpub,yanceysbrewery.com,128 South Public Square,Glasgow,KY,42141,270-590-6625,SU and MO
