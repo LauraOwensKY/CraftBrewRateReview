@@ -3,6 +3,15 @@ package com.milomouse;
 
 import java.io.IOException;
 
+/*
+        DO OVER!!! For the purposes of passing the Code Louisville Java class, I'll be reading in
+        data from two .txt files. One file contains data about craft breweries in Kentucky. The
+        other contains a Kentucky Distributor dataset from the Bureau of Alcohol, Tobacco and
+        Firearms.
+
+        I'll compare the two datasets and print a report listing which distributors available
+        locally to each brewery.
+ */
 /**************************************************************************************************
  *
  *   Craft Brew Rate & Review is a console-based tracking program for the craft brewery experience.
@@ -32,6 +41,8 @@ public class Main {
         int menuChoice;
         String breweryChoice;
         String[] breweryBackgroundData;
+        String breweryBackgroundDataset = "data/BreweryBackgroundDataset.txt";
+        String kyDistributors = "data/KYDistributors.txt";
 
         do {
               // Display the main menu and choose what to do
@@ -42,13 +53,16 @@ public class Main {
 
             // Run the selected module ==>> FOR NOW, ONLY WORKING ON OPTION 2 TO RATE BEER
             //TODO: Change if stmt to switch/case stmt ?????
+            //TODO: ADD MENU CHOICE FOR DISTRIBUTOR MATCHER
             if (menuChoice == 0) {
                 MenusInputOutputModule.GoGrabAColdOne();
             } else if (menuChoice == 1) {
+                var distributorMatcher = new DistributorMatcher(kyDistributors, breweryBackgroundDataset);
+
                 //TODO: Create Module ==> Visit the Brew House (Review a Brewery) -- Record/Rate a Brewery Visit on a user-supplied date
             } else if (menuChoice == 2) {
                 //TODO: Create Module ==> Sample the Taps -- Record/Rate a Selected Beer Type from a Selected Brewery on a user-supplied date
-                SampleTheTaps();
+                // SampleTheTaps();
             } else if (menuChoice == 3) {
                 //TODO: Create Module ==> Relive the Magic (Run a Report)
             } else if (menuChoice == 4) {

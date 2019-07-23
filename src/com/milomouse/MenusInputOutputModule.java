@@ -38,7 +38,11 @@ public class MenusInputOutputModule {
 
     public static void breweryChooserMenu() {     // Display the brewery choices menu
         //TODO: Accept User input
+
         //TODO: Loop through the CSV file to find (map to?) the user-entered input
+        //LOAD Breweries into an array
+        //PRINT out menu of breweries
+        //USER selects number corresponding to
         //TODO: Populate Tracker Record with found information
     } // breweryChooserMenu
 
