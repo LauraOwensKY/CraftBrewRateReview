@@ -7,12 +7,11 @@ import java.util.List;
 
 public class TextFileReader {
 
-    /**  ==>> CODE FROM http://alvinalexander.com/blog/post/java/how-open-read-file-java-string-array-list
+     /*  ==>> CODE FROM http://alvinalexander.com/blog/post/java/how-open-read-file-java-string-array-list
      * Open and read a file, and return the lines in the file as a list of Strings.
      * (Demonstrates Java FileReader, BufferedReader, and Java5.)
      */
 
-        // Accepts a filename, returns an array
         public List<String> readFile(String filename){
             List<String> records = new ArrayList<String>();
             try {
@@ -30,7 +29,6 @@ public class TextFileReader {
                 return null;
             }
         }
-
 
 
 } // class TextFileReader
